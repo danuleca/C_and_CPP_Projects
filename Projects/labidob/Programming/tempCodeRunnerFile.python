@@ -1,0 +1,39 @@
+class Motor:
+    def __init__(self,marka,model,razhod,maxskorost,posoka):
+        self.marka = marka
+        self.model = model
+        self.razhod = float(razhod)
+        self.maxskorost = float(maxskorost)
+        self.posoka = int(posoka)
+
+    def print_motor(Motor):
+        print("Marka: " + Motor.marka)
+        print("Model: " + Motor.model)
+        print("Gas waste: " + str(Motor.razhod))
+        print("Max velocity: " + str(Motor.maxskorost))
+        if(int(Motor.posoka) <1 and int(Motor.posoka)>4):
+            print("Invalid way!")
+        else:
+            if(int(Motor.posoka) == 1):
+                print("Forward")
+            if(int(Motor.posoka) == 2):
+                print("Left")
+            if(int(Motor.posoka) == 3):
+                print("Right")
+            if(int(Motor.posoka) == 4):
+                print("Backwards")
+
+    def promqna_posoka(Motor, posoka):
+        Motor.posoka = posoka
+
+    def predvijvane(Motor,raztoqnie):
+        vreme = int(raztoqnie) / (0.8*(float(Motor.maxskorost)))
+        print("Time:" + str(vreme) + "h")
+
+gotin_motor = Motor (marka = input("Enter brand: "), model = input("Enter model: "), razhod = float(input("Enter razhod: ")) ,maxskorost = float(input("Enter max skorost: "), posoka = float(input("Enter direction: "))))
+gotin_motor.print_motor()
+gotin_motor.promqna_posoka(4)
+print("\n\n")
+gotin_motor.print_motor()
+print("\n\n")
+gotin_motor.predvijvane(100)

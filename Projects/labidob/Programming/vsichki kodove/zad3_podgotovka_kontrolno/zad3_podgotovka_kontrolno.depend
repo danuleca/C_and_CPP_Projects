@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1640365803 source:c:\users\daniel\desktop\programming\vsichki kodove\zad3_podgotovka_kontrolno\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+	<strings.h>
+

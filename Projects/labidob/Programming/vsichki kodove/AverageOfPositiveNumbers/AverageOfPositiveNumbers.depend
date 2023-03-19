@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1608051159 source:c:\users\admin\desktop\vsichki kodove\averageofpositivenumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

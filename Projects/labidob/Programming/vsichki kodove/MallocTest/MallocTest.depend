@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1661179650 source:c:\users\daniel\desktop\programming\vsichki kodove\malloctest\main.c
+	<stdio.h>
+	<stdlib.h>
+

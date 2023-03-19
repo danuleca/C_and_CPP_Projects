@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1647023667 source:c:\users\admin\desktop\vsichki kodove\starspointers\main.c
+	<stdio.h>
+	<stdlib.h>
+

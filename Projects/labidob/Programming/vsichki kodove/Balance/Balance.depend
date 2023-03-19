@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1610469035 source:c:\users\admin\desktop\vsichki kodove\balance\main.c
+	<stdio.h>
+	<stdlib.h>
+

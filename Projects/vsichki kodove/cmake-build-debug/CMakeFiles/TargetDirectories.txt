@@ -1,0 +1,3 @@
+C:/Users/Admin/Desktop/vsichki kodove/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Admin/Desktop/vsichki kodove/cmake-build-debug/CMakeFiles/vsichki_kodove.dir
+C:/Users/Admin/Desktop/vsichki kodove/cmake-build-debug/CMakeFiles/edit_cache.dir

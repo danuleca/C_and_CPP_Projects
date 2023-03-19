@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612539057 source:c:\users\admin\desktop\vsichki kodove\chesssquarecolor\main.c
+	<stdio.h>
+	<stdlib.h>
+

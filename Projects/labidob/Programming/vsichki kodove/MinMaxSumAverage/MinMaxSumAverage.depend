@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617978818 source:c:\users\admin\desktop\vsichki kodove\minmaxsumaverage\main.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637825083 source:c:\users\admin\desktop\vsichki kodove\startofstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

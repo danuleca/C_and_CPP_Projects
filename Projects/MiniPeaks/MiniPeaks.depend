@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1623771418 source:c:\users\admin\desktop\vsichki kodove\minipeaks\main.c
+	<stdio.h>
+	<stdlib.h>
+

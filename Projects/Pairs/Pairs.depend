@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1675702142 source:c:\users\admin\desktop\vsichki kodove\pairs\main.cpp
+	<iostream>
+	<sstream>
+	<limits>
+	<algorithm>
+

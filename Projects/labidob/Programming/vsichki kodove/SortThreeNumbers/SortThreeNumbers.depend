@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613145389 source:c:\users\admin\desktop\vsichki kodove\sortthreenumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+

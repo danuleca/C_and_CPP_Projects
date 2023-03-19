@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637593210 source:c:\users\admin\desktop\vsichki kodove\zad6#bonus\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1614704379 source:c:\users\admin\desktop\vsichki kodove\checkforaplaycard\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

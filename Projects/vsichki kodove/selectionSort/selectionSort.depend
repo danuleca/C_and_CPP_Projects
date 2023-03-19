@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636617308 source:c:\users\admin\desktop\vsichki kodove\selectionsort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

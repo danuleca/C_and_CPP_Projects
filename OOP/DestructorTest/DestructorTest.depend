@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1678121753 source:c:\users\admin\desktop\coding\oop\destructortest\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+

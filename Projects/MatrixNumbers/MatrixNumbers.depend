@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619538896 source:c:\users\admin\desktop\vsichki kodove\matrixnumbers\main.c
+	<stdio.h>
+	<stdlib.h>
+	<errno.h>
+

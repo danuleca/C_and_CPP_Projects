@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622818636 source:c:\users\admin\desktop\vsichki kodove\findlargestkvalues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

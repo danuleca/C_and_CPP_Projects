@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1635510401 source:c:\users\admin\desktop\vsichki kodove\powerof2\main.c
+	<stdio.h>
+	<stdlib.h>
+

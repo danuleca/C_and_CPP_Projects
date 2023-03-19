@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637820654 source:c:\users\admin\desktop\vsichki kodove\numbersinstring\main.c
+	<stdio.h>
+	<stdlib.h>
+

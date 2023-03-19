@@ -1,0 +1,106 @@
+*{
+    background-color: lightgray;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.navbar{
+    display: flex;
+    align-items: center;
+    padding: 20px;
+}
+nav{
+    flex: 0.9;
+    text-align: right;
+}
+nav ul{
+    display: inline-block;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline-block;
+    margin-right: 50px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+p{
+    color: black;
+
+}
+.container{
+    max-width: 1300px;
+    margin: auto;
+    padding-left: 25px;
+    padding-right: 25px;
+
+}
+.row{
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.col-2{
+    flex-basis: 50%;
+    min-width: 300px;
+}
+.frame {
+    width: 800px;
+    height: 635px;
+    border: 3px solid black;
+    background:black;
+    margin: auto;
+    padding: 15px 10px;
+}
+.frame img{
+    width: 100%;
+}
+.button{
+    display: inline-block;
+    background: rgb(210,31,60) ;
+    color: black;
+    padding: 8px 30px;
+    margin: 30px 0;
+    border-radius: 30px;
+}
+.logo img {
+    border: 3px solid black;
+}
+.products{
+    flex-basis: 25%;
+    padding: 10px;
+    min-width: 200px;
+    margin-bottom: 50px;
+}
+.products img{
+    width: 100%;
+}
+.title{
+    text-align: center;
+    margin: 0 auto 40px;
+    position: relative;
+    line-height: 60px;
+    color: black;    
+}
+.h4{
+    color: black;
+    font-weight: normal;
+}
+.aboutus_p{
+    text-align: center;
+    color: black;
+    font-size: 25px;
+}
+.header{
+    display: center;
+    text-align: center;
+    background: rgb(0, 0, 0) ;
+    color: white;
+    padding: 20px 70px;
+    margin: 30px 0px;
+    border-color: black;
+}

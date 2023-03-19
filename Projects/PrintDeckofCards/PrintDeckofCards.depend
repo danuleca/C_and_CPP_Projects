@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1618931462 source:c:\users\admin\desktop\vsichki kodove\printdeckofcards\main.c
+	<stdio.h>
+	<stdlib.h>
+	<strings.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616169209 source:c:\users\admin\desktop\vsichki kodove\beertime\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

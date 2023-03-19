@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1665165474 source:c:\users\admin\desktop\vsichki kodove\maximumsequence1\main.cpp
+	<iostream>
+	<cstring>
+	<string>
+	<sstream>
+

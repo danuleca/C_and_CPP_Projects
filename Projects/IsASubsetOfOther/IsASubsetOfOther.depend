@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1623167786 source:c:\users\admin\desktop\vsichki kodove\isasubsetofother\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<errno.h>
+

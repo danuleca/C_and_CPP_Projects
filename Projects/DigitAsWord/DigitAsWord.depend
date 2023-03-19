@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1613493865 source:c:\users\admin\desktop\vsichki kodove\digitasword\main.c
+	<stdio.h>
+	<stdlib.h>
+

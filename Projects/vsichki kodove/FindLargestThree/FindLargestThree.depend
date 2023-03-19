@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1658156608 source:c:\users\admin\desktop\vsichki kodove\findlargestthree\main.cpp
+	<iostream>
+	<climits>
+	<limits>
+

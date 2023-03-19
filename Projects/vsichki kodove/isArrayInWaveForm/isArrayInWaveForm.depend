@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670007219 source:c:\users\admin\desktop\vsichki kodove\isarrayinwaveform\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617722904 source:c:\users\admin\desktop\vsichki kodove\eightqueens\main.c
+	<stdio.h>
+	<stdlib.h>
+

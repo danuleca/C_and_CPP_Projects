@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615306512 source:c:\users\admin\desktop\vsichki kodove\numberorstring\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

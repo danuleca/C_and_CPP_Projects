@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1622817747 source:c:\users\admin\desktop\vsichki kodove\findlargestthreevalues\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

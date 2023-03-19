@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1651860107 source:c:\users\admin\desktop\vsichki kodove\dynamicmemoryex3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

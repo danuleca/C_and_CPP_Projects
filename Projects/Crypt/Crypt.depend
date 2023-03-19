@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1621957406 source:c:\users\admin\desktop\vsichki kodove\crypt\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

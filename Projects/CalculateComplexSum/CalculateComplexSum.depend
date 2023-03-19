@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1618933805 source:c:\users\admin\desktop\vsichki kodove\calculatecomplexsum\main.c
+	<stdio.h>
+	<stdlib.h>
+

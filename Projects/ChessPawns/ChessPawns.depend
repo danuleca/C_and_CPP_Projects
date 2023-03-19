@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1615913327 source:c:\users\admin\desktop\vsichki kodove\chesspawns\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1665770043 source:c:\users\admin\desktop\vsichki kodove\isarraysorted\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+

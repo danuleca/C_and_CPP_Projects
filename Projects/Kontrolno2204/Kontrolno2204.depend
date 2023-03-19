@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1619187555 source:c:\users\admin\desktop\vsichki kodove\kontrolno2204\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

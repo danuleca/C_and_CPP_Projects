@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1666977387 source:c:\users\admin\desktop\vsichki kodove\findtwobiggestnumbers\main.cpp
+	<iostream>
+	<string>
+	<sstream>
+	<climits>
+	<limits>
+

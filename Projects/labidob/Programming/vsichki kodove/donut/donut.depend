@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1616484707 source:c:\users\admin\desktop\vsichki kodove\donut\main.c
+	<stdio.h>
+	<math.h>
+	<string.h>
+	<unistd.h>
+

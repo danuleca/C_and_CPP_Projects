@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1615562711 source:c:\users\admin\desktop\vsichki kodove\structs\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

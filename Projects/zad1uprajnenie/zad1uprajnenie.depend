@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1634308822 source:c:\users\admin\desktop\vsichki kodove\zad1uprajnenie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<limits.h>
+

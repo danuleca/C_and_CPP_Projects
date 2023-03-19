@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1610470456 source:c:\users\admin\desktop\vsichki kodove\shortestdistance\main.c
+	<stdio.h>
+	<stdlib.h>
+	<float.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637823103 source:c:\users\admin\desktop\vsichki kodove\mystrcmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
