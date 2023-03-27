@@ -3,7 +3,11 @@
         {
             "type": "cppbuild",
             "label": "C/C++: g++.exe build active file",
+<<<<<<< HEAD
             "command": "C:\\MinGW\\bin\\g++.exe",
+=======
+            "command": "C:\\msys64\\mingw64\\bin\\g++.exe",
+>>>>>>> 8071c2c8d8084af85dff1707e2d36d66b2fd4ca4
             "args": [
                 "-fdiagnostics-color=always",
                 "-g",
