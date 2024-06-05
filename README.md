@@ -1,2 +1,2 @@
-# C-C-OOP-Projects-
+# C/C++ Projects-
 These are all my projects I did in C/C++ ever. They represent my code journey, sadly the dates of every project i did are not saved and cant be shown in git, but by the quality of the code you can estimate :D. Some projects may not work, but more than 70% will. In the very beggining, when i started coding, I didn't create new projects, i just created .c files, so most of the files out of foulders are my very first.
